@@ -2,7 +2,7 @@
 
 # Waleed Younus
 
-### Flutter & FlutterFlow Developer
+### Mobile App Developer
 
 Building clean, scalable, and production-ready mobile applications.
 
